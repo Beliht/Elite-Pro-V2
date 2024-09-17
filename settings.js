@@ -25,7 +25,7 @@ global.wm = "ELITEPRO."
 global.link = 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [''.'!'.'.'.'.','.']
 
 //false=disable and true=enable
 global.autoRecording = true //auto recording
